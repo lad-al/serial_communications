@@ -1,2 +1,2 @@
-# socket_programming
+# serial_communications
  
