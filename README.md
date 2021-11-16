@@ -1,4 +1,3 @@
 # Java serial communications
  
-Project for Computer Networks 1 (ECE)
-
+Java application for serial communication between virtual modems using asynchronous serial ports
